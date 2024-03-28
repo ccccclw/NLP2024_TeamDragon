@@ -162,9 +162,6 @@ def insert_tokens(vocab, tokens):
     return new_vocab
 
 
-
-import pickle
-
 def main():
     """
     Entry point of the script.
