@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 24 21:31:29 2024
-
-@author: ALKAIM
-"""
 
 import argparse
 import logging
