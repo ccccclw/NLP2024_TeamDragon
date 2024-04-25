@@ -1,4 +1,4 @@
-,Prime_Type,Chinese,translation_correct,translation_wrong,English_correct,English_wrong,Transformer_pred
+,Prime_Type,Chinese,Structure_correct,Structure_wrong,English_correct,English_wrong,Transformer_pred
 1,PO_Prime,牛仔送了那本书给水手。,The cowboy gave the book to the sailor.,The cowboy gave the sailor the book.,The police gave a hat to the warrior.,The police gave the warrior a hat.,The cowboy sent the book to the sailor.
 2,PO_Prime,厨师还了那个球给修道士。,The chef returned the ball to the monk.,The chef returned the monk the ball.,The professor returned a swimmer to the banana.,The professor returned a banana to the swimmer.,The chef gave the ball back to the monk.
 3,PO_Prime,厨师扔了那顶帽子给水手。,The chef threw the hat to the sailor.,The chef threw the sailor the hat.,The painter threw the warrior a banana.,The painter threw a banana to the warrior.,The chef threw the hat at the sailor.
