@@ -36,7 +36,7 @@ config = {
         "train_trg": "./data/en.txt",
         "valid_src": "./data/cn.test.txt",
         "valid_trg": "./data/en.test.txt",
-        "eval_script": "scripts/multi-bleu.perl",
+        "eval_script": "utils/multi-bleu.perl",
     },
     "model": {
         "name": "AttEncDecRNN",
