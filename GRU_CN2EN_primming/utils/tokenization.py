@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 17 02:02:19 2024
-
-@author: ALKAIM
-"""
 
 import nltk
 # nltk.download('punkt')  

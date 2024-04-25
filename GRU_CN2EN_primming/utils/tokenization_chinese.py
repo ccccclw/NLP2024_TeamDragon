@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 17 02:08:06 2024
-
-@author: ALKAIM
-"""
 
 import jieba
 
